@@ -6,7 +6,7 @@ body {
     padding: 0;
 }
 
-/* Header styles */
+
 header {
     background-color: whitesmoke;
     padding: 1rem;
@@ -191,9 +191,9 @@ th {
     color: #333; 
 }
 
-/* Footer styles */
+
 footer {
-    background: url('img/footer-background.jpg') no-repeat center center; 
+    background: url('footer-background.jpg') no-repeat center center; 
     background-size: cover; 
     color: #0076CE;
     padding: 1rem;
