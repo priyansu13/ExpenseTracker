@@ -186,8 +186,7 @@ th {
 }
 
 footer {
-    background: url('
-        footer-background.jpg') no-repeat center center; 
+    background: url('footer-background.jpg') no-repeat center center; 
     background-size: cover; 
     color: #0076CE;
     padding: 1rem;
